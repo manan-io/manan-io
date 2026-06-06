@@ -1,6 +1,6 @@
-# Hey, I'm Manan 👋
+# Manan Sonani
 
-### Full Stack Software Engineer | Blockchain Developer
+Full Stack Software Engineer • Blockchain Developer
 
 I build scalable web applications, developer platforms, and blockchain solutions using modern JavaScript technologies.
 
@@ -53,14 +53,9 @@ Currently focused on:
 
 ### Blockchain
 
-![Ethereum](https://skillicons.dev/icons?i=ethereum)
+[![My Skills](https://skillicons.dev/icons?i=solidity)](https://skillicons.dev)
 
-**Tools & Frameworks**
-- Solidity
-- Foundry
-- Hardhat
-- Ethers.js
-- Web3.js
+**Ethereum • Solidity • Foundry • Hardhat • Ethers.js • Web3.js**
 
 ### Cloud & DevOps
 
@@ -71,24 +66,13 @@ Currently focused on:
 
 ---
 
-## 🎯 Current Engineering Focus
+## Current Focus
 
-```text
-Data Structures & Algorithms
-████████████████████ 100%
-
-System Design
-██████████████████░░ 90%
-
-Blockchain Development
-████████████████████ 100%
-
-Smart Contract Security
-█████████████████░░░ 85%
-
-Cloud Architecture
-████████████████░░░░ 80%
-```
+- Advanced Data Structures & Algorithms
+- System Design
+- Smart Contract Security
+- Distributed Systems
+- Blockchain Infrastructure
 
 ---
 
@@ -110,29 +94,26 @@ Cloud Architecture
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=manan-io&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=manan-io&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan-io&layout=compact&hide_border=true" />
 </p>
 
 ---
 
-## 📚 Currently Learning
+## Engineering Interests
 
-- Advanced Algorithms
-- Dynamic Programming
-- Graph Algorithms
-- System Design
 - Distributed Systems
-- Consensus Mechanisms
-- Zero-Knowledge Proofs
-- Protocol Security
+- Smart Contract Security
+- Event-Driven Architectures
+- Protocol Design
+- Infrastructure Engineering
 
 ---
 
@@ -165,9 +146,8 @@ const engineeringPrinciples = {
 
 ## 📫 Connect With Me
 
-- LinkedIn: YOUR_LINKEDIN
-- Portfolio: YOUR_PORTFOLIO
-- Email: YOUR_EMAIL
+- LinkedIn: https://www.linkedin.com/in/manan-sonani/
+- Email: manansonani7979@gmail.com
 
 ---
 
