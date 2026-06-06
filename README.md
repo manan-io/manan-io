@@ -91,22 +91,6 @@ Currently focused on:
 
 ---
 
-## 📈 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=manan-io&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=manan-io&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manan-io&layout=compact&hide_border=true" />
-</p>
-
----
-
 ## Engineering Interests
 
 - Distributed Systems
