@@ -10,17 +10,16 @@ Currently focused on:
 - 🏗️ System Design & Distributed Systems
 - ⚡ High-performance Next.js Applications
 - 🔐 Smart Contract Security & Protocol Development
-- 🎯 Technical Interview Preparation
 
 ---
 
 ## 🚀 About Me
 
 - 💻 Full Stack Engineer specializing in JavaScript ecosystems
-- ⚛️ Building production-grade applications with Next.js & Angular
+- ⚛️ Building production-grade web applications
 - ⛓️ Developing smart contracts using Solidity, Foundry & Hardhat
 - ☁️ Working with AWS, MongoDB, Stripe & modern cloud architectures
-- 🔍 Interested in software architecture, performance optimization and developer experience
+- 🔍 Interested in software architecture & performance optimization
 - 🌱 Always learning how large-scale systems are designed and operated
 
 ---
@@ -124,7 +123,7 @@ const engineeringPrinciples = {
 - I like understanding how systems work under the hood.
 - I enjoy both Web2 and Web3 development.
 - I believe strong fundamentals beat framework hype.
-- I enjoy solving algorithmic problems and architecture challenges.
+- I enjoy solving algorithmic problems and architectural challenges.
 
 ---
 
