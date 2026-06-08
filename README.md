@@ -65,16 +65,6 @@ Currently focused on:
 
 ---
 
-## Current Focus
-
-- Advanced Data Structures & Algorithms
-- System Design
-- Smart Contract Security
-- Distributed Systems
-- Blockchain Infrastructure
-
----
-
 ## 🧠 Areas That Interest Me
 
 - Distributed Systems
